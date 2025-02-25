@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="_24_7_healthcare">24*7 Healthcare</string>
+    <string name="register_for_new_user">Register for new user</string>
+    <string name="Login">Login</string>
+</resources>
